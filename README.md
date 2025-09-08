@@ -35,7 +35,7 @@ node index.js "Nama Kamu - NIMKamu"
 - **Versi Sapi:**
   ![Screenshot Sapi](image.png)
 - **Versi Dragon:**
-  ![Screenshot Dragon](image dragon.png)
+  ![Screenshot Dragon](image_dragon.png)
 
 ## Catatan
 
